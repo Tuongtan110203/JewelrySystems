@@ -8517,11 +8517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\WebBanVang.csproj",
+      "projectUniqueName": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\WebBanVang.csproj",
       "projectName": "WebBanVang",
-      "projectPath": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\WebBanVang.csproj",
+      "projectPath": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\WebBanVang.csproj",
       "packagesPath": "C:\\Users\\tuong\\.nuget\\packages\\",
-      "outputPath": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\obj\\",
+      "outputPath": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tuong\\AppData\\Roaming\\NuGet\\NuGet.Config",

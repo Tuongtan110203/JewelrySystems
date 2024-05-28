@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\",
+  "WorkspaceRootPath": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\repository\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\github\\jewelrysystems\\webbanvang\\webbanvang\\repository\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\repository\\sqlorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\webbanvang\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\models\\domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\models\\domain\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\webbanvang\\models\\domain\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\models\\domain\\stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,37 +28,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Stone.cs",
-              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Models\\Domain\\Stone.cs",
+              "DocumentMoniker": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\Models\\Domain\\Stone.cs",
               "RelativeDocumentMoniker": "WebBanVang\\Models\\Domain\\Stone.cs",
-              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Models\\Domain\\Stone.cs",
+              "ToolTip": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\Models\\Domain\\Stone.cs",
               "RelativeToolTip": "WebBanVang\\Models\\Domain\\Stone.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T10:12:14.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T10:12:14.74Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Models\\Domain\\Product.cs",
+              "DocumentMoniker": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\Models\\Domain\\Product.cs",
               "RelativeDocumentMoniker": "WebBanVang\\Models\\Domain\\Product.cs",
-              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Models\\Domain\\Product.cs",
+              "ToolTip": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\Models\\Domain\\Product.cs",
               "RelativeToolTip": "WebBanVang\\Models\\Domain\\Product.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAmwB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T10:12:13.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T10:12:13.934Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SQLOrderRepository.cs",
-              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLOrderRepository.cs",
+              "DocumentMoniker": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\Repository\\SQLOrderRepository.cs",
               "RelativeDocumentMoniker": "WebBanVang\\Repository\\SQLOrderRepository.cs",
-              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLOrderRepository.cs",
+              "ToolTip": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\Repository\\SQLOrderRepository.cs",
               "RelativeToolTip": "WebBanVang\\Repository\\SQLOrderRepository.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAwD0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T10:08:16.277Z",
               "EditorCaption": ""

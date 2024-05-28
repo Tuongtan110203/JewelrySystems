@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O3wd9Ir5fC26JyyiKRpoONTrTMevlvUeMgHVZI+BV07pQLO+9Q07TCF4REu65SKdrFdzYrcn9yAHLm/MVfXb6A==",
+  "dgSpecHash": "9giZLT053CGhwPLfMob4PxRJ5Hz/l/ObtkU5bxkopwFeYclfue02iyYtZCeJ8HlSpVKu4oy3uEZxVCr+8Lwz0A==",
   "success": true,
-  "projectFilePath": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\WebBanVang.csproj",
+  "projectFilePath": "D:\\Tuong\\github\\JewelrySystems\\WebBanVang\\WebBanVang\\WebBanVang.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tuong\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\tuong\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

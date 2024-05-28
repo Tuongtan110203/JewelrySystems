@@ -60,12 +60,6 @@ namespace WebBanVang.Repository
             return await dbContext.Orders.Include(x => x.Users).Include(x => x.Customers).ToListAsync();
         }
 
-        public async Task<int> GetNumberOfOrdersAsync()
-        {
-            var order = await dbContext.Orders.ToListAsync();
-            return order.Count;
-        }
-
         public async Task<Orders?> GetOrdersById(int id)
         {
             var checkExist = await dbContext.Orders
