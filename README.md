@@ -1,2 +1,2 @@
 # Jewelry Sales Systems
-[](https://projectjewelry.azurewebsites.net/) 
+[jewelry](https://projectjewelry.azurewebsites.net/) 
