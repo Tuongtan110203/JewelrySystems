@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="kimnganhoanbeta" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="WebBanVang.Data.JewelrySalesSystemDbContext" description="" value="Data Source=kimhoannganjewelry.database.windows.net,1433;Initial Catalog=kimhoannganjewelry;User ID=jewelryAdmin;Password=Sktt9123" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\WebBanVang\.Data\.JewelrySalesSystemDbContext\.sql$" />
+  </parameter>
+</parameters>

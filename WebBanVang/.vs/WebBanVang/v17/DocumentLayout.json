@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\repository\\sqlcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\repository\\sqlcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\repository\\sqlproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\repository\\sqlproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\mapping\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\repository\\sqlgoldtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\repository\\sqlgoldtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|d:\\tuong\\ki5\\prn212\\swp391_jewelrysalessystem_group1_be\\webbanvang\\webbanvang\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE789C08-CC9E-4633-9C32-8CC2258A75EE}|WebBanVang\\WebBanVang.csproj|solutionrelative:webbanvang\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Mapping\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Mapping\\AutoMapperProfile.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Mapping\\AutoMapperProfile.cs",
+              "RelativeToolTip": "WebBanVang\\Mapping\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:26:10.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "WebBanVang\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAowJ4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:22:18.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "WebBanVang\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:20:09.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLCategoryRepository.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Repository\\SQLCategoryRepository.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLCategoryRepository.cs",
+              "RelativeToolTip": "WebBanVang\\Repository\\SQLCategoryRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv1gAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:19:58.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebBanVang\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwEoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:08:04.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SQLProductRepository.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLProductRepository.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Repository\\SQLProductRepository.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLProductRepository.cs",
+              "RelativeToolTip": "WebBanVang\\Repository\\SQLProductRepository.cs",
+              "ViewState": "AQIAAFUBAAAAAAAAAAAAAG4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:00:31.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLGoldTypeRepository.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLGoldTypeRepository.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Repository\\SQLGoldTypeRepository.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\SQLGoldTypeRepository.cs",
+              "RelativeToolTip": "WebBanVang\\Repository\\SQLGoldTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T07:19:42.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Program.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Program.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Program.cs",
+              "RelativeToolTip": "WebBanVang\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T06:21:03.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "WebBanVang\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "WebBanVang\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T05:59:58.019Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
