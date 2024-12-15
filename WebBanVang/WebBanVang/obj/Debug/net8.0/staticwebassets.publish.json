@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/GEyj+pbriv1cwC1A7MIdVCdO2HNT2pPSXJ7gruetbo=",
+  "Source": "WebBanVang",
+  "BasePath": "_content/WebBanVang",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebBanVang\\wwwroot",
+      "Source": "WebBanVang",
+      "ContentRoot": "D:\\Tuong\\ki5\\PRN212\\SWP391_JewelrySalesSystem_Group1_BE\\WebBanVang\\WebBanVang\\wwwroot\\",
+      "BasePath": "_content/WebBanVang",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

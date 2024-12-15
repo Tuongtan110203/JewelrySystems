@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8waB6A9Zp0OmcyV8n6jdfwAAAAACAAAAAAAQZgAAAAEAACAAAAA81SUa+oqPAdiZDqCVhdpjujQJIRRtePkshShBJAcN2wAAAAAOgAAAAAIAACAAAADXm8EsylCBp3wbRo2kMfV5HDlzYS36M+IHm5Sqp6dYpoAAAAB8u8xodrKX09ypYOp3a59Q4L4LiGFANOB7qtL2A5YEG6TBd4WCTCQqT4jh6QwQ9nc6s+NDkxbq55Thy4T22akQ36WbYAyBNQxeWk5zU4GS3RV0FSegeuVrEeLMzPNudh7C+dllfiXTVAxDNmYFB0E5jDTz7e7W/bvgWoXoeHOQbEAAAAAwaKGdpyTviktasVA8WI76c4k3pCnnt1mG9Wb103CLk80AGf+3acU9wBBPJOSokZL46pxpVKbxUArEBv3SrRcD</EncryptedPassword>
+    <History>True|2024-07-25T06:49:20.1838624Z;True|2024-07-25T13:26:39.8984246+07:00;True|2024-07-25T13:23:12.2916329+07:00;True|2024-07-25T13:20:49.8096395+07:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=kimhoannganjewelry.database.windows.net,1433;Initial Catalog=kimhoannganjewelry;User ID=jewelryAdmin;Password=Sktt9123" />
+    <AzureDBConnectionStrings Include="Data Source=kimnganhoanbeta.database.windows.net,1433;Initial Catalog=kimnganhoanbeta;User ID=jewelryAdmin;Password=Sktt9123" />
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebBanVang.Data.JewelrySalesSystemDbContext">
+      <Value>Data Source=kimhoannganjewelry.database.windows.net,1433%3bInitial Catalog=kimhoannganjewelry%3bUser ID=jewelryAdmin%3bPassword=Sktt9123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Tuong\ki5\PRN212\SWP391_JewelrySalesSystem_Group1_BE\WebBanVang\WebBanVang\obj\Release\net8.0\PubTmp\Out\" />
+  <dbfullsql path="D:\Tuong\ki5\PRN212\SWP391_JewelrySalesSystem_Group1_BE\WebBanVang\WebBanVang\obj\Release\net8.0\PubTmp\EFSQLScripts\WebBanVang.Data.JewelrySalesSystemDbContext.sql" />
+</sitemanifest>
